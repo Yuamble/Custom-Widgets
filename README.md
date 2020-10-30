@@ -82,3 +82,11 @@ async function Loadimage(url) {
     return await req.loadImage()
 }
 ```
+
+And there are some links for you!
+
+https://jcpretorius.com/post/2020/custom-javascript-ios-14-widgets-with-scriptable
+
+https://talk.automators.fm/t/widget-examples/7994
+
+https://docs.scriptable.app/
