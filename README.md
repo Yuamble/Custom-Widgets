@@ -69,7 +69,7 @@ function createWidget() {
     
     let spacer3 = widget.addSpacer(5)
     
-let gasprice = widget.addText("⛽ " + gas_text + " Gwei (" + (parseInt(gas_text)/1000000000*21000*parseFloat(price_text)).toFixed(2)+ "$)")
+    let gasprice = widget.addText("⛽ " + gas_text + " Gwei (" + (parseInt(gas_text)/1000000000*21000*parseFloat(price_text)).toFixed(2)+ "$)")
     gasprice.font = Font.mediumRoundedSystemFont(18)
     gasprice.textColor = new Color("#a7acc4")
 
