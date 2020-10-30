@@ -28,7 +28,6 @@ gas_text = await gas_text.loadJSON()
 gas_text = gas_text["result"]["ProposeGasPrice"]
 
 let widget = createWidget()
-// widget.backgroundImage = await Loadimage(background_url)
 let gradient = new LinearGradient();
 gradient.colors = [new Color("#1a1a1a"), new Color("#142161")];
 gradient.locations = [0, 1.5];
