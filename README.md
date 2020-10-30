@@ -7,7 +7,8 @@
 - Long tap on widget and tap "change "Scriptable""
 - Choose your file and that's all! Widget is ready!
 
-**(Don't forget to change API key in code!!!)**
+**(Don't forget to change API key in code!!!)
+To get API Key, you should go to https://etherscan.io/apis**
 
 Code:
 ```javascript
