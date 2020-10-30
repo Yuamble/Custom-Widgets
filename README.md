@@ -6,7 +6,9 @@
 - Then, add medium size widget on homesreen of Scriptable
 - Long tap on widget and tap "change "Scriptable""
 - Choose your file and that's all! Widget is ready!
+
 **(Don't forget to change API key in code!!!)**
+
 Code:
 ```javascript
 let apikey = "YOUR API KEY"
